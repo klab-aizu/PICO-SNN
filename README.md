@@ -37,8 +37,15 @@ Accuracy: 64.44444444444444 %
 ```
 
 ## Handwritten digits (custom)
+Example of receptive field:  
+![image](img/recep.png)
 ```
 python3 tiny_snn_pico_handwritten.py
 ```
 ```
+...
+prediction: 5
+wrong
+
+Accuracy: 30.0 %
 ```
